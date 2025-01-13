@@ -1,0 +1,11 @@
+/Users/asemqaffaf/playground/next.js-wasm/my-nextjs-wasm-app/wasm-module/target/debug/deps/libbitflags-0be7cb1b5c21ee72.rmeta: /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs
+
+/Users/asemqaffaf/playground/next.js-wasm/my-nextjs-wasm-app/wasm-module/target/debug/deps/bitflags-0be7cb1b5c21ee72.d: /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs
+
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/lib.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/iter.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/parser.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/traits.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/public.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/internal.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.7.0/src/external.rs:

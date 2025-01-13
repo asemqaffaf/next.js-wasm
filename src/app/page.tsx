@@ -18,7 +18,7 @@ const Index = () => {
         setApiMap(v);
       });
       fetch_wasm_json('https://jsonplaceholder.typicode.com/todos/1').then((v) => {
-        console.log('v :>> ', v);
+        console.log('json v :>> ', v);
         setApiJson(v);
       });
     });

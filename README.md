@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+Frontend:
 ```bash
 npm run dev
 # or
@@ -13,6 +14,33 @@ pnpm dev
 # or
 bun dev
 ```
+
+
+wasm-module:
+```bash
+npm run dev:wasm
+# or
+yarn dev:wasm
+# or
+pnpm dev:wasm
+# or
+bun dev:wasm
+```
+
+
+wasm-module:
+```bash
+npm run build:wasm
+# or
+yarn build:wasm
+# or
+pnpm build:wasm
+# or
+bun build:wasm
+```
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
