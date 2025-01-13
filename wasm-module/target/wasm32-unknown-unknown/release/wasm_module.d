@@ -1,0 +1,1 @@
+/Users/asemqaffaf/playground/webassmply/my-nextjs-wasm-app/wasm-module/target/wasm32-unknown-unknown/release/wasm_module.wasm: /Users/asemqaffaf/playground/webassmply/my-nextjs-wasm-app/wasm-module/src/lib.rs

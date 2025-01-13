@@ -1,0 +1,9 @@
+/Users/asemqaffaf/playground/webassmply/my-nextjs-wasm-app/wasm-module/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-2797efbdd45f2a6c.rmeta: /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/lib.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/queue.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/task/singlethread.rs
+
+/Users/asemqaffaf/playground/webassmply/my-nextjs-wasm-app/wasm-module/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-2797efbdd45f2a6c.rlib: /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/lib.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/queue.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/task/singlethread.rs
+
+/Users/asemqaffaf/playground/webassmply/my-nextjs-wasm-app/wasm-module/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-2797efbdd45f2a6c.d: /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/lib.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/queue.rs /Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/task/singlethread.rs
+
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/lib.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/queue.rs:
+/Users/asemqaffaf/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.49/src/task/singlethread.rs:
