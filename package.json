@@ -1,7 +1,7 @@
 {
   "name": "my-nextjs-wasm-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev:next": "next dev --turbopack",
     "dev:wasm": "next dev --turbopack && cd wasm-module && nodemon --watch src --ext rs --exec \"wasm-pack build --target web\"",

@@ -6,13 +6,13 @@ First, run the development server:
 
 Frontend:
 ```bash
-npm run dev
+npm run dev:next
 # or
-yarn dev
+yarn dev:next
 # or
-pnpm dev
+pnpm dev:next
 # or
-bun dev
+bun dev:next
 ```
 
 
