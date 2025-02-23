@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "dev:wasm": "cd wasm-module && nodemon --watch src --ext rs --exec \"wasm-pack build --target web\"",
+    "dev:next": "next dev --turbopack",
+    "dev:wasm": "next dev --turbopack && cd wasm-module && nodemon --watch src --ext rs --exec \"wasm-pack build --target web\"",
     "build:wasm": "cd wasm-module && wasm-pack build --target web",
     "build": "next build",
     "start": "next start",
